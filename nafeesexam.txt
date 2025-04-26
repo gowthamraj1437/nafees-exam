@@ -1,0 +1,22 @@
+Requirements
+1. Functional Requirements
+	1.1 User Registration and Authentication
+		1: Users must be able to register using an email and password.
+		2: Users must be able to log in and log out.
+	1.2 Event Management
+		1: Organizers must be able to create new events with details such as title, description, date, time, location, and capacity.
+		2: Organizers must be able to delete events.
+	1.3 Registration for Events
+		1: Attendees must be able to view a list of upcoming events.
+		2: Attendees must be able to register for events.
+2. Non-Functional Requirements
+	2.1 Performance Requirements
+		1: The system should support at least 1000 concurrent users.
+
+	2.2 Security Requirements
+		1: User data must be encrypted in transit and at rest.
+
+	2.3 Usability Requirements
+		1: The user interface must be intuitive and user-friendly.
+
+	
